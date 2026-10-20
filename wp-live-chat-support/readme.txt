@@ -2,9 +2,9 @@
 Contributors: WP-LiveChat, wordpress3cx, wp3cx
 Tags: live chat, free live chat, live help, live support, wordpress live chat
 Requires at least: 5.3
-Tested up to: 6.8.2
+Tested up to: 7.1.3
 Requires PHP: 5.4
-Stable tag: 10.0.18
+Stable tag: 10.0.19
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: wp-live-chat-support
@@ -93,7 +93,10 @@ Huge update with over 300 changes that include: Bugfixes, Vulnerability Fixes & 
 
 == Changelog ==
 
-= 10.0.18 - 2026-04-20 =
+= 10.0.19 - 2026-10-14 =
+* Security fix
+
+= 10.0.18 - 2026-06-29 =
 * Security fix
 
 = 10.0.17 - 2025-08-25 =
